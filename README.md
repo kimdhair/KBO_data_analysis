@@ -20,6 +20,7 @@
 - 결과
   - 투수가 타자보다 경기의 승패에 미치는 영향이 더 크다
 
+
 <img src = "https://github.com/kimdhair/KBO_data_analysis/blob/main/img/%ED%8C%80%EB%8B%B9%20%ED%83%80%EC%9C%A8%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%A0%95%EA%B7%9C%20%EC%88%9C%EC%9C%84.png?raw=true" width="40%"><img src = "https://github.com/kimdhair/KBO_data_analysis/blob/main/img/%ED%8C%80%EB%8B%B9%20%ED%8F%89%EC%9E%90%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%A0%95%EA%B7%9C%20%EC%88%9C%EC%9C%84.png?raw=true" width="40%"></img>
 
 <img src = "https://github.com/kimdhair/KBO_data_analysis/blob/main/img/%ED%83%80%EC%9C%A8%EA%B3%BC%20%EC%A0%95%EA%B7%9C%EC%8B%9C%EC%A6%8C%20%EC%88%9C%EC%9C%84%20%EA%B4%80%EA%B3%84.png?raw=true" width="40%"><img src = "https://github.com/kimdhair/KBO_data_analysis/blob/main/img/%ED%8F%89%EC%9E%90%EC%99%80%20%EC%A0%95%EA%B7%9C%EC%8B%9C%EC%A6%8C%20%EC%88%9C%EC%9C%84%20%EA%B4%80%EA%B3%84.png?raw=true" width="40%"></img>
